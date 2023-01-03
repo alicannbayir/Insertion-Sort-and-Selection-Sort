@@ -1,5 +1,7 @@
-Patika.dev projesi: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje\\
+Patika.dev projesi: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
+
 **INSERTION SORT**
+
 [22,27,16,2,18,6]-> Insertion sort
 Yukarıdaki dizinin sort türüne göre aşamaları;
 1. [22,27,16,2,18,6]
@@ -17,11 +19,15 @@ Yukarıdaki dizinin sort türüne göre aşamaları;
 
 18 sayısı average case kapsamına girmektedir.
 Insertion Sort'un Time Complexity'si
+
 Best Case: O(n)
+
 Worst Case: O(n²)
+
 Average Case: O(n²)
 
 **SELECTION SORT**
+
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımı;
 1. [2,3,5,8,7,9,4,15,6]
 2. [2,3,5,8,7,9,4,15,6]
