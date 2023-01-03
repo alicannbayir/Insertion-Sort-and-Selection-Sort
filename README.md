@@ -1,4 +1,4 @@
-Patika.dev projesi: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje \\
+Patika.dev projesi: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje\\
 **INSERTION SORT**
 [22,27,16,2,18,6]-> Insertion sort
 Yukarıdaki dizinin sort türüne göre aşamaları;
